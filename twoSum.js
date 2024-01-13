@@ -9,4 +9,8 @@ var twoSum = function(nums, target) {
 };
 
 nums=[2,7,11,12];
-twoSum(nums,9)
+twoSum(nums,9);
+nums = [3,2,4]
+twoSum(nums,6)
+ nums = [3,3]
+ twoSum(nums,6)
